@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <!-- Added body parts -->
+  <HediffDef ParentName="AddedBodyPartBase">
+    <defName>TranslationSphere</defName>
+    <label>translation sphere</label>
+    <description>translation sphere</description>
+    <addedPartProps>
+      <betterThanNatural>true</betterThanNatural>
+      <solid>true</solid>
+      <partEfficiency>1.4</partEfficiency>
+    </addedPartProps>
+  </HediffDef>
+</Defs>
