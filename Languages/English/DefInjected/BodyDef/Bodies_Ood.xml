@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Ood_body.label>ood</Ood_body.label>
+  <Ood_body.corePart.parts.7.customLabel>left lung</Ood_body.corePart.parts.7.customLabel>
+  <Ood_body.corePart.parts.8.customLabel>right lung</Ood_body.corePart.parts.8.customLabel>
+  <Ood_body.corePart.parts.9.customLabel>left kidney</Ood_body.corePart.parts.9.customLabel>
+  <Ood_body.corePart.parts.10.customLabel>right kidney</Ood_body.corePart.parts.10.customLabel>
+  <Ood_body.corePart.parts.12.parts.0.parts.1.customLabel>left eye</Ood_body.corePart.parts.12.parts.0.parts.1.customLabel>
+  <Ood_body.corePart.parts.12.parts.0.parts.2.customLabel>right eye</Ood_body.corePart.parts.12.parts.0.parts.2.customLabel>
+  <Ood_body.corePart.parts.12.parts.0.parts.3.customLabel>left ear</Ood_body.corePart.parts.12.parts.0.parts.3.customLabel>
+  <Ood_body.corePart.parts.12.parts.0.parts.4.customLabel>right ear</Ood_body.corePart.parts.12.parts.0.parts.4.customLabel>
+  <Ood_body.corePart.parts.13.customLabel>left shoulder</Ood_body.corePart.parts.13.customLabel>
+  <Ood_body.corePart.parts.13.parts.0.customLabel>left clavicle</Ood_body.corePart.parts.13.parts.0.customLabel>
+  <Ood_body.corePart.parts.13.parts.1.customLabel>left arm</Ood_body.corePart.parts.13.parts.1.customLabel>
+  <Ood_body.corePart.parts.13.parts.1.parts.0.customLabel>left humerus</Ood_body.corePart.parts.13.parts.1.parts.0.customLabel>
+  <Ood_body.corePart.parts.13.parts.1.parts.1.customLabel>left radius</Ood_body.corePart.parts.13.parts.1.parts.1.customLabel>
+  <Ood_body.corePart.parts.13.parts.1.parts.2.customLabel>left hand</Ood_body.corePart.parts.13.parts.1.parts.2.customLabel>
+  <Ood_body.corePart.parts.13.parts.1.parts.2.parts.0.customLabel>left hand pinky</Ood_body.corePart.parts.13.parts.1.parts.2.parts.0.customLabel>
+  <Ood_body.corePart.parts.13.parts.1.parts.2.parts.1.customLabel>left hand ring finger</Ood_body.corePart.parts.13.parts.1.parts.2.parts.1.customLabel>
+  <Ood_body.corePart.parts.13.parts.1.parts.2.parts.2.customLabel>left hand middle finger</Ood_body.corePart.parts.13.parts.1.parts.2.parts.2.customLabel>
+  <Ood_body.corePart.parts.13.parts.1.parts.2.parts.3.customLabel>left hand index finger</Ood_body.corePart.parts.13.parts.1.parts.2.parts.3.customLabel>
+  <Ood_body.corePart.parts.13.parts.1.parts.2.parts.4.customLabel>left hand thumb</Ood_body.corePart.parts.13.parts.1.parts.2.parts.4.customLabel>
+  <Ood_body.corePart.parts.14.customLabel>right shoulder</Ood_body.corePart.parts.14.customLabel>
+  <Ood_body.corePart.parts.14.parts.0.customLabel>right clavicle</Ood_body.corePart.parts.14.parts.0.customLabel>
+  <Ood_body.corePart.parts.14.parts.1.customLabel>right arm</Ood_body.corePart.parts.14.parts.1.customLabel>
+  <Ood_body.corePart.parts.14.parts.1.parts.0.customLabel>right humerus</Ood_body.corePart.parts.14.parts.1.parts.0.customLabel>
+  <Ood_body.corePart.parts.14.parts.1.parts.1.customLabel>right radius</Ood_body.corePart.parts.14.parts.1.parts.1.customLabel>
+  <Ood_body.corePart.parts.14.parts.1.parts.2.customLabel>right hand</Ood_body.corePart.parts.14.parts.1.parts.2.customLabel>
+  <Ood_body.corePart.parts.14.parts.1.parts.2.parts.0.customLabel>right hand pinky</Ood_body.corePart.parts.14.parts.1.parts.2.parts.0.customLabel>
+  <Ood_body.corePart.parts.14.parts.1.parts.2.parts.1.customLabel>right hand ring finger</Ood_body.corePart.parts.14.parts.1.parts.2.parts.1.customLabel>
+  <Ood_body.corePart.parts.14.parts.1.parts.2.parts.2.customLabel>right hand middle finger</Ood_body.corePart.parts.14.parts.1.parts.2.parts.2.customLabel>
+  <Ood_body.corePart.parts.14.parts.1.parts.2.parts.3.customLabel>right hand index finger</Ood_body.corePart.parts.14.parts.1.parts.2.parts.3.customLabel>
+  <Ood_body.corePart.parts.14.parts.1.parts.2.parts.4.customLabel>right hand thumb</Ood_body.corePart.parts.14.parts.1.parts.2.parts.4.customLabel>
+  <Ood_body.corePart.parts.16.customLabel>left leg</Ood_body.corePart.parts.16.customLabel>
+  <Ood_body.corePart.parts.16.parts.0.customLabel>left femur</Ood_body.corePart.parts.16.parts.0.customLabel>
+  <Ood_body.corePart.parts.16.parts.1.customLabel>left tibia</Ood_body.corePart.parts.16.parts.1.customLabel>
+  <Ood_body.corePart.parts.16.parts.2.customLabel>left foot</Ood_body.corePart.parts.16.parts.2.customLabel>
+  <Ood_body.corePart.parts.16.parts.2.parts.0.customLabel>left foot little toe</Ood_body.corePart.parts.16.parts.2.parts.0.customLabel>
+  <Ood_body.corePart.parts.16.parts.2.parts.1.customLabel>left foot fourth toe</Ood_body.corePart.parts.16.parts.2.parts.1.customLabel>
+  <Ood_body.corePart.parts.16.parts.2.parts.2.customLabel>left foot middle toe</Ood_body.corePart.parts.16.parts.2.parts.2.customLabel>
+  <Ood_body.corePart.parts.16.parts.2.parts.3.customLabel>left foot second toe</Ood_body.corePart.parts.16.parts.2.parts.3.customLabel>
+  <Ood_body.corePart.parts.16.parts.2.parts.4.customLabel>left foot big toe</Ood_body.corePart.parts.16.parts.2.parts.4.customLabel>
+  <Ood_body.corePart.parts.17.customLabel>right leg</Ood_body.corePart.parts.17.customLabel>
+  <Ood_body.corePart.parts.17.parts.0.customLabel>right femur</Ood_body.corePart.parts.17.parts.0.customLabel>
+  <Ood_body.corePart.parts.17.parts.1.customLabel>right tibia</Ood_body.corePart.parts.17.parts.1.customLabel>
+  <Ood_body.corePart.parts.17.parts.2.customLabel>right foot</Ood_body.corePart.parts.17.parts.2.customLabel>
+  <Ood_body.corePart.parts.17.parts.2.parts.0.customLabel>right foot little toe</Ood_body.corePart.parts.17.parts.2.parts.0.customLabel>
+  <Ood_body.corePart.parts.17.parts.2.parts.1.customLabel>right foot fourth toe</Ood_body.corePart.parts.17.parts.2.parts.1.customLabel>
+  <Ood_body.corePart.parts.17.parts.2.parts.2.customLabel>right foot middle toe</Ood_body.corePart.parts.17.parts.2.parts.2.customLabel>
+  <Ood_body.corePart.parts.17.parts.2.parts.3.customLabel>right foot second toe</Ood_body.corePart.parts.17.parts.2.parts.3.customLabel>
+  <Ood_body.corePart.parts.17.parts.2.parts.4.customLabel>right foot big toe</Ood_body.corePart.parts.17.parts.2.parts.4.customLabel>
+
+
+</LanguageData>

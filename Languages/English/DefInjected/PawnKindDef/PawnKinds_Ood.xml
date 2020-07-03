@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Ood.label>Ood</Ood.label>
+  <Ood.labelPlural>Oods</Ood.labelPlural>
+  <Ood.labelMale>male Ood</Ood.labelMale>
+  <Ood.labelMalePlural>male Oods</Ood.labelMalePlural>
+  <Ood.labelFemale>female Ood</Ood.labelFemale>
+  <Ood.labelFemalePlural>female Oods</Ood.labelFemalePlural>
+
+  <OodTrader.label>Ood</OodTrader.label>
+  <OodTrader.labelPlural>Oods</OodTrader.labelPlural>
+  <OodTrader.labelMale>male Ood</OodTrader.labelMale>
+  <OodTrader.labelMalePlural>male Oods</OodTrader.labelMalePlural>
+  <OodTrader.labelFemale>female Ood</OodTrader.labelFemale>
+  <OodTrader.labelFemalePlural>female Oods</OodTrader.labelFemalePlural>
+
+
+</LanguageData>

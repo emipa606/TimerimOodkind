@@ -45,7 +45,7 @@
       <min>-50</min>
       <max>45</max>
     </allowedArrivalTemperatureRange>
-	<maxPawnCostPerTotalPointsCurve>
+    <maxPawnCostPerTotalPointsCurve>
       <points>
         <li>(0,35)</li>
         <li>(70, 50)</li>
@@ -56,15 +56,9 @@
     </maxPawnCostPerTotalPointsCurve>
     <pawnGroupMakers>
       <li>
-        <kindDef>Combat</kindDef>
-        <options>
-          <Ood>50</Ood>
-        </options>
-      </li>
-      <li>
         <kindDef>Trader</kindDef>
         <traders>
-          <Ood>50</Ood>
+          <OodTrader>50</OodTrader>
         </traders>
         <carriers>
           <Muffalo>2</Muffalo>

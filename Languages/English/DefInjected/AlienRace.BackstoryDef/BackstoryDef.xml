@@ -1,0 +1,111 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <OodChildCaptivity.title>Ood operations</OodChildCaptivity.title>
+  <OodChildCaptivity.titleShort>Captivity</OodChildCaptivity.titleShort>
+  <OodChildCaptivity.baseDescription>[PAWN_nameDef] was born and raised in captivity by Ood Operations, a 31st century corporation specialising in Ood sales</OodChildCaptivity.baseDescription>
+
+  <OodChildPet.title>Wealthy family</OodChildPet.title>
+  <OodChildPet.titleShort>Pet</OodChildPet.titleShort>
+  <OodChildPet.baseDescription>[PAWN_nameDef] was sold to a wealthy family and raised as a beloved pet, but never regarded as a family member</OodChildPet.baseDescription>
+
+  <OodChildMerc.title>Mercenary slave</OodChildMerc.title>
+  <OodChildMerc.titleShort>Squire</OodChildMerc.titleShort>
+  <OodChildMerc.baseDescription>[PAWN_nameDef] was captured by mercenaries at an early age, used as a gun greaser and general slave</OodChildMerc.baseDescription>
+
+  <OodChildFarmer.title>Community farmhand</OodChildFarmer.title>
+  <OodChildFarmer.titleShort>Farmhand</OodChildFarmer.titleShort>
+  <OodChildFarmer.baseDescription>[PAWN_nameDef] was purchased by a small human community, where [PAWN_pronoun] learned to toil the fields on a daily basis</OodChildFarmer.baseDescription>
+
+  <OodChildSubject.title>Experimental subject</OodChildSubject.title>
+  <OodChildSubject.titleShort>Test subject</OodChildSubject.titleShort>
+  <OodChildSubject.baseDescription>[PAWN_nameDef] was born and raised in captivity by scientists on a distant asteroid base, subjected to horrendous experiments</OodChildSubject.baseDescription>
+
+  <OodChildMiner.title>Miner</OodChildMiner.title>
+  <OodChildMiner.titleShort>Miner</OodChildMiner.titleShort>
+  <OodChildMiner.baseDescription>[PAWN_nameDef] was purchased at a young age by a mining organisation and packed into unsafe mine shafts to extract dangerous ores</OodChildMiner.baseDescription>
+
+  <OodChildShephard.title>Monastery shephard</OodChildShephard.title>
+  <OodChildShephard.titleShort>Shephard</OodChildShephard.titleShort>
+  <OodChildShephard.baseDescription>[PAWN_nameDef] was raised by alien monks, tending to their flocks and crops</OodChildShephard.baseDescription>
+
+  <OodChildOodkind.title>Free spirit</OodChildOodkind.title>
+  <OodChildOodkind.titleShort>Oodkind</OodChildOodkind.titleShort>
+  <OodChildOodkind.baseDescription>[PAWN_nameDef] has a blissful upbringing, raised in peace and tranquility by Oodkind on the Oodsphere</OodChildOodkind.baseDescription>
+
+  <OodChildRunner.title>On the run</OodChildRunner.title>
+  <OodChildRunner.titleShort>Ood runner</OodChildRunner.titleShort>
+  <OodChildRunner.baseDescription>[PAWN_nameDef] escaped from captivity, spending years at a time on the run</OodChildRunner.baseDescription>
+
+  <OodChildHealer.title>Oodkind healer apprentice</OodChildHealer.title>
+  <OodChildHealer.titleShort>Healer</OodChildHealer.titleShort>
+  <OodChildHealer.baseDescription>[PAWN_nameDef] was raised by Oodkind, learning the ways of the Healers on the Oodsphere</OodChildHealer.baseDescription>
+
+  <OodChildWorkhouse.title>Workhouse slave</OodChildWorkhouse.title>
+  <OodChildWorkhouse.titleShort>Labourer</OodChildWorkhouse.titleShort>
+  <OodChildWorkhouse.baseDescription>[PAWN_nameDef] was born into the Workhouse, acting as little more than a cog in the great machine</OodChildWorkhouse.baseDescription>
+
+  <OodChildRefugee.title>Refugee of the great war</OodChildRefugee.title>
+  <OodChildRefugee.titleShort>Refugee</OodChildRefugee.titleShort>
+  <OodChildRefugee.baseDescription>[PAWN_nameDef] was young when the war came, fleeing the frontline with blind hope</OodChildRefugee.baseDescription>
+
+
+  <!-- Adulthood -->
+
+  <OodAdultChef.title>Sous chef</OodAdultChef.title>
+  <OodAdultChef.titleShort>Chef</OodAdultChef.titleShort>
+  <OodAdultChef.baseDescription>[PAWN_nameDef] spent their adult years working as a sous chef on board a space yacht for the rich and wealthy</OodAdultChef.baseDescription>
+
+  <OodAdultButler.title>Butler</OodAdultButler.title>
+  <OodAdultButler.titleShort>Butler</OodAdultButler.titleShort>
+  <OodAdultButler.baseDescription>[PAWN_nameDef] spent their adult years working as a butler. [PAWN_pronoun] was fondly regarded by the family</OodAdultButler.baseDescription>
+
+  <OodAdultFarmer.title>Family farmhand</OodAdultFarmer.title>
+  <OodAdultFarmer.titleShort>Farmhand</OodAdultFarmer.titleShort>
+  <OodAdultFarmer.baseDescription>[PAWN_nameDef] spent their adult years working the land as a farmhand for a small human family</OodAdultFarmer.baseDescription>
+
+  <OodAdultFactory.title>Factory labourer</OodAdultFactory.title>
+  <OodAdultFactory.titleShort>Labourer</OodAdultFactory.titleShort>
+  <OodAdultFactory.baseDescription>[PAWN_nameDef] spent their adult years in the Factories, grafting without question, day after day</OodAdultFactory.baseDescription>
+
+  <OodAdultAssistant.title>Personal assistant</OodAdultAssistant.title>
+  <OodAdultAssistant.titleShort>Secretary</OodAdultAssistant.titleShort>
+  <OodAdultAssistant.baseDescription>[PAWN_nameDef] spent their adult years in the private sector as a personal assistant, tending to the needs of their owner at every hour of the day</OodAdultAssistant.baseDescription>
+
+  <OodAdultNanny.title>Estate housekeeper</OodAdultNanny.title>
+  <OodAdultNanny.titleShort>Nanny</OodAdultNanny.titleShort>
+  <OodAdultNanny.baseDescription>[PAWN_nameDef] spent their adult years as a Nanny and Housekeeper, tending to the needs of a wealthy family's children</OodAdultNanny.baseDescription>
+
+  <OodAdultMiner.title>Miner</OodAdultMiner.title>
+  <OodAdultMiner.titleShort>Miner</OodAdultMiner.titleShort>
+  <OodAdultMiner.baseDescription>[PAWN_nameDef] spent their adult years down the mines in cramped, unsafe conditions, extracting and refining ores</OodAdultMiner.baseDescription>
+
+  <OodAdultAlone.title>Sole survivor</OodAdultAlone.title>
+  <OodAdultAlone.titleShort>Deserted</OodAdultAlone.titleShort>
+  <OodAdultAlone.baseDescription>[PAWN_nameDef] spent their adult years wandering the ruins of a desolate battleground, aimless and without companionship</OodAdultAlone.baseDescription>
+
+  <OodAdultHomeless.title>Homeless</OodAdultHomeless.title>
+  <OodAdultHomeless.titleShort>Hobo</OodAdultHomeless.titleShort>
+  <OodAdultHomeless.baseDescription>[PAWN_nameDef] spent their adult years on the streets, homeless and without purpose</OodAdultHomeless.baseDescription>
+
+  <OodAdultMonk.title>Travelling monk</OodAdultMonk.title>
+  <OodAdultMonk.titleShort>Monk</OodAdultMonk.titleShort>
+  <OodAdultMonk.baseDescription>[PAWN_nameDef] spent their adult years travelling from world to world with other Oodkind, singing their songs to those that needed healing</OodAdultMonk.baseDescription>
+
+  <OodAdultFreakshow.title>Greatest freak in the galaxy</OodAdultFreakshow.title>
+  <OodAdultFreakshow.titleShort>Freak</OodAdultFreakshow.titleShort>
+  <OodAdultFreakshow.baseDescription>[PAWN_nameDef] spent their adult years in the employ of a Freakshow, touring the Galaxy for all to gaze upon</OodAdultFreakshow.baseDescription>
+
+  <OodAdultOodkind.title>Oodkind</OodAdultOodkind.title>
+  <OodAdultOodkind.titleShort>Oodkind</OodAdultOodkind.titleShort>
+  <OodAdultOodkind.baseDescription>[PAWN_nameDef] spent their adult years freely and at peace with other Oodkind in the ice cities of the Oodsphere</OodAdultOodkind.baseDescription>
+
+
+  <!-- Generic Ood filler -->
+
+  <OodAdultOodGeneric.title>Ood servant</OodAdultOodGeneric.title>
+  <OodAdultOodGeneric.titleShort>Servant</OodAdultOodGeneric.titleShort>
+  <OodAdultOodGeneric.baseDescription>[PAWN_nameDef] spent their adult life acting a servant in a wide variety of roles, never spending too long a time with one owner. [PAWN_pronoun] longed for the day when they could be reunited with their Oodkind...</OodAdultOodGeneric.baseDescription>
+
+
+</LanguageData>

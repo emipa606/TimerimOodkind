@@ -1,8 +1,9 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Defs>
   <PawnKindDef Name="OodBase" Abstract="True">
-    <defaultFactionType>OodKindFaction</defaultFactionType>
     <race>Alien_Ood</race>
+    <defaultFactionType>OodKindFaction</defaultFactionType>
+    <chemicalAddictionChance>0.035</chemicalAddictionChance>
     <backstoryFilters>
       <li>
         <categories>
@@ -10,27 +11,10 @@
         </categories>
       </li>
     </backstoryFilters>
-    <chemicalAddictionChance>0.035</chemicalAddictionChance>
-    <baseRecruitDifficulty>0.30</baseRecruitDifficulty>
-    <apparelAllowHeadgearChance>0</apparelAllowHeadgearChance>
+    <invNutrition>2.55</invNutrition>
     <apparelTags>
       <li>OodJumpsuit</li>
     </apparelTags>
-  </PawnKindDef>
-  <PawnKindDef Name="OodCivBase" ParentName="OodBase" Abstract="True">
-    <combatPower>10</combatPower>
-    <race>Alien_Ood</race>
-    <itemQuality>Normal</itemQuality>
-    <isFighter>false</isFighter>
-    <gearHealthRange>
-      <min>0.2</min>
-      <max>2.0</max>
-    </gearHealthRange>
-    <apparelMoney>
-      <min>300</min>
-      <max>5000</max>
-    </apparelMoney>
-    <invNutrition>2.55</invNutrition>
     <inventoryOptions>
       <skipChance>0.75</skipChance>
       <subOptionsChooseOne>
@@ -52,12 +36,25 @@
         </li>
       </subOptionsChooseOne>
     </inventoryOptions>
+    <combatPower>10</combatPower>
+    <itemQuality>Normal</itemQuality>
+    <isFighter>false</isFighter>
+    <gearHealthRange>
+      <min>0.2</min>
+      <max>2.0</max>
+    </gearHealthRange>
+    <apparelMoney>
+      <min>300</min>
+      <max>5000</max>
+    </apparelMoney>
+    <baseRecruitDifficulty>0.30</baseRecruitDifficulty>
+    <apparelAllowHeadgearChance>0</apparelAllowHeadgearChance>
   </PawnKindDef>
-  <PawnKindDef ParentName="OodCivBase">
+  <PawnKindDef ParentName="OodBase">
     <defName>Ood</defName>
     <label>Ood</label>
   </PawnKindDef>
-  <PawnKindDef ParentName="OodCivBase">
+  <PawnKindDef ParentName="OodBase">
     <defName>OodTrader</defName>
     <label>Ood</label>
     <trader>true</trader>
