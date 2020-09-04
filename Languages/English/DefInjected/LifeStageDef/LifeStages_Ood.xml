@@ -1,12 +1,10 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-
-  <BabyOodStage.label>baby</BabyOodStage.label>
-  <ChildOodStage.label>child</ChildOodStage.label>
-  <TeenOodStage.label>adult stage</TeenOodStage.label>
-  <AdultOodStage.label>adult stage</AdultOodStage.label>
-  <ElderOodStage.label>elder stage</ElderOodStage.label>
-  <AncestorOodStage.label>ancestor stage</AncestorOodStage.label>
-
+  <!--<BabyOodStage.label>baby</BabyOodStage.label>-->
+  <!--<ChildOodStage.label>child</ChildOodStage.label>-->
+  <!--<TeenOodStage.label>adult stage</TeenOodStage.label>-->
+  <!--<AdultOodStage.label>adult stage</AdultOodStage.label>-->
+  <!--<ElderOodStage.label>elder stage</ElderOodStage.label>-->
+  <!--<AncestorOodStage.label>ancestor stage</AncestorOodStage.label>-->
 
 </LanguageData>
