@@ -30,8 +30,8 @@ Humanity enslaved the Ood, mutilating them to ensure a dedication to servitude.
 
 Known Issues:
 
-- You MAY rarely get an issue with Ood backstories, I&apos;m working on more to stop this happening
-- On mod load, you&apos;ll get an error related to TraitDefs... HUMANOID ALIEN RACES 2.0 author is aware and is patching this as it&apos;s a framework bug. Your game will still work! (UPDATE: Should now be patched - thanks Erdelf!)
+- You MAY rarely get an issue with Ood backstories, I&amp;apos;m working on more to stop this happening
+- On mod load, you&amp;apos;ll get an error related to TraitDefs... HUMANOID ALIEN RACES 2.0 author is aware and is patching this as it&amp;apos;s a framework bug. Your game will still work! (UPDATE: Should now be patched - thanks Erdelf!)
 
 ------------
 
@@ -48,6 +48,7 @@ Large thanks to Erdelf and Xen for their assistance in configuring the Framework
 -  For best support, please use the Discord-channel for error-reporting.
 -  Do not report errors by making a discussion-thread, I get no notification of that.
 -  If you have the solution for a problem, please post it to the GitHub repository.
+
 
 
 
