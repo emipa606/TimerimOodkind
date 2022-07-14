@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <ModMetaData>
   <name>Timerim: Oodkind (Continued)</name>
   <packageId>Mlie.TimerimOodkind</packageId>
@@ -20,20 +20,24 @@
   <loadAfter>
     <li>erdelf.HumanoidAlienRaces</li>
   </loadAfter>
-  <description>[img]https://i.imgur.com/WAEzk68.png[/img]
+  <description>[img]https://i.imgur.com/buuPQel.png[/img]
 Update of demeggys mod
 https://steamcommunity.com/sharedfiles/filedetails/?id=1212506909
 
-[img]https://i.imgur.com/7Gzt3Rg.png[/img]
+[img]https://i.imgur.com/pufA0kM.png[/img]
 
 [table]
 	[tr]
 		[td][url=https://invite.gg/Mlie][img]https://i.imgur.com/zdzzBrc.png[/img][/url][/td]
 		[td][url=https://github.com/emipa606/TimerimOodkind][img]https://i.imgur.com/kTkpTOE.png[/img][/url][/td]
-	[/tr]
+    [/tr]
+    [tr]
+        [td][img]https://i.imgur.com/WjDSfUn.png[/img][/td]
+        [td][img]https://i.imgur.com/6KqTKks.png[/img][/td]
+    [/tr]
 [/table]
 	
-[img]https://i.imgur.com/NOW7jU1.png[/img]
+[img]https://i.imgur.com/Z4GOv8H.png[/img]
 
 REQUIRES HUMANOID ALIEN RACES 2.0 FRAMEWORK!
 
@@ -45,15 +49,15 @@ Humanity enslaved the Ood, mutilating them to ensure a dedication to servitude.
 
 Known Issues:
 
-- You MAY rarely get an issue with Ood backstories, I&apos;m working on more to stop this happening
-- On mod load, you&apos;ll get an error related to TraitDefs... HUMANOID ALIEN RACES 2.0 author is aware and is patching this as it&apos;s a framework bug. Your game will still work! (UPDATE: Should now be patched - thanks Erdelf!)
+- You MAY rarely get an issue with Ood backstories, I&amp;apos;m working on more to stop this happening
+- On mod load, you&amp;apos;ll get an error related to TraitDefs... HUMANOID ALIEN RACES 2.0 author is aware and is patching this as it&amp;apos;s a framework bug. Your game will still work! (UPDATE: Should now be patched - thanks Erdelf!)
 
 ------------
 
 Large thanks to Erdelf and Xen for their assistance in configuring the Framework
 
 
-[img]https://i.imgur.com/Rs6T6cr.png[/img]
+[img]https://i.imgur.com/PwoNOj4.png[/img]
 [list]
 [*] See if the the error persists if you just have this mod and its requirements active.
 [*] If not, try adding your other mods until it happens again.
@@ -62,6 +66,5 @@ Large thanks to Erdelf and Xen for their assistance in configuring the Framework
 [*] Do not report errors by making a discussion-thread, I get no notification of that.
 [*] If you have the solution for a problem, please post it to the GitHub repository.
 [/list]
-
 </description>
 </ModMetaData>
