@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <RulePackDef>
+    <defName>NamerPersonOodM</defName>
+    <rulePack>
+      <rulesStrings>
+        <li>name-&gt;[OodfirstM] [Oodlast]</li>
+      </rulesStrings>
+      <rulesRaw>
+        <li Class="Rule_File">
+          <keyword>OodfirstM</keyword>
+          <path>Ood_Names/OodM</path>
+        </li>
+        <li Class="Rule_File">
+          <keyword>Oodlast</keyword>
+          <path>Ood_Names/Oodlast</path>
+        </li>
+      </rulesRaw>
+    </rulePack>
+  </RulePackDef>
+  <RulePackDef>
+    <defName>NamerPersonOodF</defName>
+    <rulePack>
+      <rulesStrings>
+        <li>name-&gt;[OodfirstF] [Oodlast]</li>
+      </rulesStrings>
+      <rulesRaw>
+        <li Class="Rule_File">
+          <keyword>OodfirstF</keyword>
+          <path>Ood_Names/OodF</path>
+        </li>
+        <li Class="Rule_File">
+          <keyword>Oodlast</keyword>
+          <path>Ood_Names/Oodlast</path>
+        </li>
+      </rulesRaw>
+    </rulePack>
+  </RulePackDef>
+</Defs>

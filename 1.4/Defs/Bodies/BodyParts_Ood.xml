@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <BodyPartDef>
+    <defName>OodTentacles</defName>
+    <label>tentacles</label>
+    <hitPoints>20</hitPoints>
+    <permanentInjuryChanceFactor>0</permanentInjuryChanceFactor>
+    <skinCovered>false</skinCovered>
+    <beautyRelated>true</beautyRelated>
+    <tags>
+      <li>EatingSource</li>
+    </tags>
+  </BodyPartDef>
+  <BodyPartDef>
+    <defName>OodHindbrain</defName>
+    <label>Translation Sphere</label>
+    <hitPoints>20</hitPoints>
+    <permanentInjuryChanceFactor>0.08</permanentInjuryChanceFactor>
+    <bleedRate>5</bleedRate>
+    <skinCovered>false</skinCovered>
+    <tags>
+      <li>TalkingSource</li>
+    </tags>
+    <canSuggestAmputation>true</canSuggestAmputation>
+  </BodyPartDef>
+</Defs>

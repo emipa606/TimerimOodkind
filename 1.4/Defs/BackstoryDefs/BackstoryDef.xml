@@ -1,0 +1,460 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <AlienRace.AlienBackstoryDef>
+    <defName>OodChildCaptivity</defName>
+    <title>Ood operations</title>
+    <titleShort>Captivity</titleShort>
+    <baseDesc>[PAWN_nameDef] was born and raised in captivity by Ood Operations, a 31st century corporation specialising in Ood sales</baseDesc>
+    <slot>Childhood</slot>
+    <bodyTypeFemale>Female</bodyTypeFemale>
+    <bodyTypeMale>Male</bodyTypeMale>
+    <bodyTypeGlobal>Thin</bodyTypeGlobal>
+    <maleCommonality>20</maleCommonality>
+    <femaleCommonality>20</femaleCommonality>
+    <spawnCategories>
+      <li>OodBackstory</li>
+    </spawnCategories>
+    <forcedTraitsChance>
+      <li>
+        <defName>Nerves</defName>
+        <degree>-1</degree>
+      </li>
+    </forcedTraitsChance>
+  </AlienRace.AlienBackstoryDef>
+  <AlienRace.AlienBackstoryDef>
+    <defName>OodChildPet</defName>
+    <title>Wealthy family</title>
+    <titleShort>Pet</titleShort>
+    <baseDesc>[PAWN_nameDef] was sold to a wealthy family and raised as a beloved pet, but never regarded as a family member</baseDesc>
+    <slot>Childhood</slot>
+    <bodyTypeFemale>Female</bodyTypeFemale>
+    <bodyTypeMale>Male</bodyTypeMale>
+    <bodyTypeGlobal>Thin</bodyTypeGlobal>
+    <maleCommonality>20</maleCommonality>
+    <femaleCommonality>20</femaleCommonality>
+    <spawnCategories>
+      <li>OodBackstory</li>
+    </spawnCategories>
+  </AlienRace.AlienBackstoryDef>
+  <AlienRace.AlienBackstoryDef>
+    <defName>OodChildMerc</defName>
+    <title>Mercenary slave</title>
+    <titleShort>Squire</titleShort>
+    <baseDesc>[PAWN_nameDef] was captured by mercenaries at an early age, used as a gun greaser and general slave</baseDesc>
+    <slot>Childhood</slot>
+    <bodyTypeFemale>Female</bodyTypeFemale>
+    <bodyTypeMale>Male</bodyTypeMale>
+    <bodyTypeGlobal>Thin</bodyTypeGlobal>
+    <maleCommonality>20</maleCommonality>
+    <femaleCommonality>20</femaleCommonality>
+    <spawnCategories>
+      <li>OodBackstory</li>
+    </spawnCategories>
+    <skillGains>
+      <li>
+        <key>Shooting</key>
+        <value>1</value>
+      </li>
+      <li>
+        <key>Melee</key>
+        <value>1</value>
+      </li>
+    </skillGains>
+  </AlienRace.AlienBackstoryDef>
+  <AlienRace.AlienBackstoryDef>
+    <defName>OodChildFarmer</defName>
+    <title>Community farmhand</title>
+    <titleShort>Farmhand</titleShort>
+    <baseDesc>[PAWN_nameDef] was purchased by a small human community, where [PAWN_pronoun] learned to toil the fields on a daily basis</baseDesc>
+    <slot>Childhood</slot>
+    <bodyTypeFemale>Female</bodyTypeFemale>
+    <bodyTypeMale>Male</bodyTypeMale>
+    <bodyTypeGlobal>Thin</bodyTypeGlobal>
+    <maleCommonality>20</maleCommonality>
+    <femaleCommonality>20</femaleCommonality>
+    <spawnCategories>
+      <li>OodBackstory</li>
+    </spawnCategories>
+  </AlienRace.AlienBackstoryDef>
+  <AlienRace.AlienBackstoryDef>
+    <defName>OodChildSubject</defName>
+    <title>Experimental subject</title>
+    <titleShort>Test subject</titleShort>
+    <baseDesc>[PAWN_nameDef] was born and raised in captivity by scientists on a distant asteroid base, subjected to horrendous experiments</baseDesc>
+    <slot>Childhood</slot>
+    <bodyTypeFemale>Female</bodyTypeFemale>
+    <bodyTypeMale>Male</bodyTypeMale>
+    <bodyTypeGlobal>Thin</bodyTypeGlobal>
+    <maleCommonality>20</maleCommonality>
+    <femaleCommonality>20</femaleCommonality>
+    <spawnCategories>
+      <li>OodBackstory</li>
+    </spawnCategories>
+    <forcedTraitsChance>
+      <li>
+        <defName>Nerves</defName>
+        <degree>-2</degree>
+      </li>
+    </forcedTraitsChance>
+  </AlienRace.AlienBackstoryDef>
+  <AlienRace.AlienBackstoryDef>
+    <defName>OodChildMiner</defName>
+    <title>Miner</title>
+    <titleShort>Miner</titleShort>
+    <baseDesc>[PAWN_nameDef] was purchased at a young age by a mining organisation and packed into unsafe mine shafts to extract dangerous ores</baseDesc>
+    <slot>Childhood</slot>
+    <bodyTypeFemale>Female</bodyTypeFemale>
+    <bodyTypeMale>Male</bodyTypeMale>
+    <bodyTypeGlobal>Thin</bodyTypeGlobal>
+    <maleCommonality>20</maleCommonality>
+    <femaleCommonality>20</femaleCommonality>
+    <spawnCategories>
+      <li>OodBackstory</li>
+    </spawnCategories>
+    <forcedTraitsChance>
+      <li>
+        <defName>Industriousness</defName>
+        <degree>2</degree>
+      </li>
+    </forcedTraitsChance>
+  </AlienRace.AlienBackstoryDef>
+  <AlienRace.AlienBackstoryDef>
+    <defName>OodChildShephard</defName>
+    <title>Monastery shephard</title>
+    <titleShort>Shephard</titleShort>
+    <baseDesc>[PAWN_nameDef] was raised by alien monks, tending to their flocks and crops</baseDesc>
+    <slot>Childhood</slot>
+    <bodyTypeFemale>Female</bodyTypeFemale>
+    <bodyTypeMale>Male</bodyTypeMale>
+    <bodyTypeGlobal>Thin</bodyTypeGlobal>
+    <maleCommonality>20</maleCommonality>
+    <femaleCommonality>20</femaleCommonality>
+    <spawnCategories>
+      <li>OodBackstory</li>
+    </spawnCategories>
+    <skillGains>
+      <li>
+        <key>Animals</key>
+        <value>1</value>
+      </li>
+      <li>
+        <key>Plants</key>
+        <value>1</value>
+      </li>
+    </skillGains>
+  </AlienRace.AlienBackstoryDef>
+  <AlienRace.AlienBackstoryDef>
+    <defName>OodChildOodkind</defName>
+    <title>Free spirit</title>
+    <titleShort>Oodkind</titleShort>
+    <baseDesc>[PAWN_nameDef] has a blissful upbringing, raised in peace and tranquility by Oodkind on the Oodsphere</baseDesc>
+    <slot>Childhood</slot>
+    <bodyTypeFemale>Female</bodyTypeFemale>
+    <bodyTypeMale>Male</bodyTypeMale>
+    <bodyTypeGlobal>Thin</bodyTypeGlobal>
+    <maleCommonality>20</maleCommonality>
+    <femaleCommonality>20</femaleCommonality>
+    <spawnCategories>
+      <li>OodBackstory</li>
+    </spawnCategories>
+  </AlienRace.AlienBackstoryDef>
+  <AlienRace.AlienBackstoryDef>
+    <defName>OodChildRunner</defName>
+    <title>On the run</title>
+    <titleShort>Ood runner</titleShort>
+    <baseDesc>[PAWN_nameDef] escaped from captivity, spending years at a time on the run</baseDesc>
+    <slot>Childhood</slot>
+    <bodyTypeFemale>Female</bodyTypeFemale>
+    <bodyTypeMale>Male</bodyTypeMale>
+    <bodyTypeGlobal>Thin</bodyTypeGlobal>
+    <maleCommonality>20</maleCommonality>
+    <femaleCommonality>20</femaleCommonality>
+    <spawnCategories>
+      <li>OodBackstory</li>
+    </spawnCategories>
+  </AlienRace.AlienBackstoryDef>
+  <AlienRace.AlienBackstoryDef>
+    <defName>OodChildHealer</defName>
+    <title>Oodkind healer apprentice</title>
+    <titleShort>Healer</titleShort>
+    <baseDesc>[PAWN_nameDef] was raised by Oodkind, learning the ways of the Healers on the Oodsphere</baseDesc>
+    <slot>Childhood</slot>
+    <bodyTypeFemale>Female</bodyTypeFemale>
+    <bodyTypeMale>Male</bodyTypeMale>
+    <bodyTypeGlobal>Thin</bodyTypeGlobal>
+    <maleCommonality>20</maleCommonality>
+    <femaleCommonality>20</femaleCommonality>
+    <spawnCategories>
+      <li>OodBackstory</li>
+    </spawnCategories>
+  </AlienRace.AlienBackstoryDef>
+  <AlienRace.AlienBackstoryDef>
+    <defName>OodChildWorkhouse</defName>
+    <title>Workhouse slave</title>
+    <titleShort>Labourer</titleShort>
+    <baseDesc>[PAWN_nameDef] was born into the Workhouse, acting as little more than a cog in the great machine</baseDesc>
+    <slot>Childhood</slot>
+    <bodyTypeFemale>Female</bodyTypeFemale>
+    <bodyTypeMale>Male</bodyTypeMale>
+    <bodyTypeGlobal>Thin</bodyTypeGlobal>
+    <maleCommonality>20</maleCommonality>
+    <femaleCommonality>20</femaleCommonality>
+    <spawnCategories>
+      <li>OodBackstory</li>
+    </spawnCategories>
+    <forcedTraitsChance>
+      <li>
+        <defName>Industriousness</defName>
+        <degree>2</degree>
+      </li>
+    </forcedTraitsChance>
+  </AlienRace.AlienBackstoryDef>
+  <AlienRace.AlienBackstoryDef>
+    <defName>OodChildRefugee</defName>
+    <title>Refugee of the great war</title>
+    <titleShort>Refugee</titleShort>
+    <baseDesc>[PAWN_nameDef] was young when the war came, fleeing the frontline with blind hope</baseDesc>
+    <slot>Childhood</slot>
+    <bodyTypeFemale>Female</bodyTypeFemale>
+    <bodyTypeMale>Male</bodyTypeMale>
+    <bodyTypeGlobal>Thin</bodyTypeGlobal>
+    <maleCommonality>20</maleCommonality>
+    <femaleCommonality>20</femaleCommonality>
+    <spawnCategories>
+      <li>OodBackstory</li>
+    </spawnCategories>
+  </AlienRace.AlienBackstoryDef>
+  <!-- Adulthood -->
+  <AlienRace.AlienBackstoryDef>
+    <defName>OodAdultChef</defName>
+    <title>Sous chef</title>
+    <titleShort>Chef</titleShort>
+    <baseDesc>[PAWN_nameDef] spent their adult years working as a sous chef on board a space yacht for the rich and wealthy</baseDesc>
+    <slot>Adulthood</slot>
+    <bodyTypeFemale>Female</bodyTypeFemale>
+    <bodyTypeMale>Male</bodyTypeMale>
+    <bodyTypeGlobal>Thin</bodyTypeGlobal>
+    <maleCommonality>20</maleCommonality>
+    <femaleCommonality>20</femaleCommonality>
+    <spawnCategories>
+      <li>OodBackstory</li>
+    </spawnCategories>
+    <skillGains>
+      <li>
+        <key>Cooking</key>
+        <value>4</value>
+      </li>
+    </skillGains>
+  </AlienRace.AlienBackstoryDef>
+  <AlienRace.AlienBackstoryDef>
+    <defName>OodAdultButler</defName>
+    <title>Butler</title>
+    <titleShort>Butler</titleShort>
+    <baseDesc>[PAWN_nameDef] spent their adult years working as a butler. [PAWN_pronoun] was fondly regarded by the family</baseDesc>
+    <slot>Adulthood</slot>
+    <bodyTypeFemale>Female</bodyTypeFemale>
+    <bodyTypeMale>Male</bodyTypeMale>
+    <bodyTypeGlobal>Thin</bodyTypeGlobal>
+    <maleCommonality>20</maleCommonality>
+    <femaleCommonality>20</femaleCommonality>
+    <spawnCategories>
+      <li>OodBackstory</li>
+    </spawnCategories>
+  </AlienRace.AlienBackstoryDef>
+  <AlienRace.AlienBackstoryDef>
+    <defName>OodAdultFarmer</defName>
+    <title>Family farmhand</title>
+    <titleShort>Farmhand</titleShort>
+    <baseDesc>[PAWN_nameDef] spent their adult years working the land as a farmhand for a small human family</baseDesc>
+    <slot>Adulthood</slot>
+    <bodyTypeFemale>Female</bodyTypeFemale>
+    <bodyTypeMale>Male</bodyTypeMale>
+    <bodyTypeGlobal>Thin</bodyTypeGlobal>
+    <maleCommonality>20</maleCommonality>
+    <femaleCommonality>20</femaleCommonality>
+    <spawnCategories>
+      <li>OodBackstory</li>
+    </spawnCategories>
+    <skillGains>
+      <li>
+        <key>Plants</key>
+        <value>4</value>
+      </li>
+    </skillGains>
+  </AlienRace.AlienBackstoryDef>
+  <AlienRace.AlienBackstoryDef>
+    <defName>OodAdultFactory</defName>
+    <title>Factory labourer</title>
+    <titleShort>Labourer</titleShort>
+    <baseDesc>[PAWN_nameDef] spent their adult years in the Factories, grafting without question, day after day</baseDesc>
+    <slot>Adulthood</slot>
+    <bodyTypeFemale>Female</bodyTypeFemale>
+    <bodyTypeMale>Male</bodyTypeMale>
+    <bodyTypeGlobal>Thin</bodyTypeGlobal>
+    <maleCommonality>20</maleCommonality>
+    <femaleCommonality>20</femaleCommonality>
+    <spawnCategories>
+      <li>OodBackstory</li>
+    </spawnCategories>
+    <skillGains>
+      <li>
+        <key>Crafting</key>
+        <value>4</value>
+      </li>
+    </skillGains>
+  </AlienRace.AlienBackstoryDef>
+  <AlienRace.AlienBackstoryDef>
+    <defName>OodAdultAssistant</defName>
+    <title>Personal assistant</title>
+    <titleShort>Secretary</titleShort>
+    <baseDesc>[PAWN_nameDef] spent their adult years in the private sector as a personal assistant, tending to the needs of their owner at every hour of the day</baseDesc>
+    <slot>Adulthood</slot>
+    <bodyTypeFemale>Female</bodyTypeFemale>
+    <bodyTypeMale>Male</bodyTypeMale>
+    <bodyTypeGlobal>Thin</bodyTypeGlobal>
+    <maleCommonality>20</maleCommonality>
+    <femaleCommonality>20</femaleCommonality>
+    <spawnCategories>
+      <li>OodBackstory</li>
+    </spawnCategories>
+    <skillGains>
+      <li>
+        <key>Social</key>
+        <value>4</value>
+      </li>
+    </skillGains>
+  </AlienRace.AlienBackstoryDef>
+  <AlienRace.AlienBackstoryDef>
+    <defName>OodAdultNanny</defName>
+    <title>Estate housekeeper</title>
+    <titleShort>Nanny</titleShort>
+    <baseDesc>[PAWN_nameDef] spent their adult years as a Nanny and Housekeeper, tending to the needs of a wealthy family's children</baseDesc>
+    <slot>Adulthood</slot>
+    <bodyTypeFemale>Female</bodyTypeFemale>
+    <bodyTypeMale>Male</bodyTypeMale>
+    <bodyTypeGlobal>Thin</bodyTypeGlobal>
+    <maleCommonality>20</maleCommonality>
+    <femaleCommonality>20</femaleCommonality>
+    <spawnCategories>
+      <li>OodBackstory</li>
+    </spawnCategories>
+  </AlienRace.AlienBackstoryDef>
+  <AlienRace.AlienBackstoryDef>
+    <defName>OodAdultMiner</defName>
+    <title>Miner</title>
+    <titleShort>Miner</titleShort>
+    <baseDesc>[PAWN_nameDef] spent their adult years down the mines in cramped, unsafe conditions, extracting and refining ores</baseDesc>
+    <slot>Adulthood</slot>
+    <bodyTypeFemale>Female</bodyTypeFemale>
+    <bodyTypeMale>Male</bodyTypeMale>
+    <bodyTypeGlobal>Thin</bodyTypeGlobal>
+    <maleCommonality>20</maleCommonality>
+    <femaleCommonality>20</femaleCommonality>
+    <spawnCategories>
+      <li>OodBackstory</li>
+    </spawnCategories>
+    <skillGains>
+      <li>
+        <key>Mining</key>
+        <value>4</value>
+      </li>
+    </skillGains>
+  </AlienRace.AlienBackstoryDef>
+  <AlienRace.AlienBackstoryDef>
+    <defName>OodAdultAlone</defName>
+    <title>Sole survivor</title>
+    <titleShort>Deserted</titleShort>
+    <baseDesc>[PAWN_nameDef] spent their adult years wandering the ruins of a desolate battleground, aimless and without companionship</baseDesc>
+    <slot>Adulthood</slot>
+    <bodyTypeFemale>Female</bodyTypeFemale>
+    <bodyTypeMale>Male</bodyTypeMale>
+    <bodyTypeGlobal>Thin</bodyTypeGlobal>
+    <maleCommonality>20</maleCommonality>
+    <femaleCommonality>20</femaleCommonality>
+    <spawnCategories>
+      <li>OodBackstory</li>
+    </spawnCategories>
+  </AlienRace.AlienBackstoryDef>
+  <AlienRace.AlienBackstoryDef>
+    <defName>OodAdultHomeless</defName>
+    <title>Homeless</title>
+    <titleShort>Hobo</titleShort>
+    <baseDesc>[PAWN_nameDef] spent their adult years on the streets, homeless and without purpose</baseDesc>
+    <slot>Adulthood</slot>
+    <bodyTypeFemale>Female</bodyTypeFemale>
+    <bodyTypeMale>Male</bodyTypeMale>
+    <bodyTypeGlobal>Thin</bodyTypeGlobal>
+    <maleCommonality>20</maleCommonality>
+    <femaleCommonality>20</femaleCommonality>
+    <spawnCategories>
+      <li>OodBackstory</li>
+    </spawnCategories>
+  </AlienRace.AlienBackstoryDef>
+  <AlienRace.AlienBackstoryDef>
+    <defName>OodAdultMonk</defName>
+    <title>Travelling monk</title>
+    <titleShort>Monk</titleShort>
+    <baseDesc>[PAWN_nameDef] spent their adult years travelling from world to world with other Oodkind, singing their songs to those that needed healing</baseDesc>
+    <slot>Adulthood</slot>
+    <bodyTypeFemale>Female</bodyTypeFemale>
+    <bodyTypeMale>Male</bodyTypeMale>
+    <bodyTypeGlobal>Thin</bodyTypeGlobal>
+    <maleCommonality>20</maleCommonality>
+    <femaleCommonality>20</femaleCommonality>
+    <spawnCategories>
+      <li>OodBackstory</li>
+    </spawnCategories>
+    <skillGains>
+      <li>
+        <key>Medicine</key>
+        <value>4</value>
+      </li>
+    </skillGains>
+  </AlienRace.AlienBackstoryDef>
+  <AlienRace.AlienBackstoryDef>
+    <defName>OodAdultFreakshow</defName>
+    <title>Greatest freak in the galaxy</title>
+    <titleShort>Freak</titleShort>
+    <baseDesc>[PAWN_nameDef] spent their adult years in the employ of a Freakshow, touring the Galaxy for all to gaze upon</baseDesc>
+    <slot>Adulthood</slot>
+    <bodyTypeFemale>Female</bodyTypeFemale>
+    <bodyTypeMale>Male</bodyTypeMale>
+    <bodyTypeGlobal>Thin</bodyTypeGlobal>
+    <maleCommonality>20</maleCommonality>
+    <femaleCommonality>20</femaleCommonality>
+    <spawnCategories>
+      <li>OodBackstory</li>
+    </spawnCategories>
+  </AlienRace.AlienBackstoryDef>
+  <AlienRace.AlienBackstoryDef>
+    <defName>OodAdultOodkind</defName>
+    <title>Oodkind</title>
+    <titleShort>Oodkind</titleShort>
+    <baseDesc>[PAWN_nameDef] spent their adult years freely and at peace with other Oodkind in the ice cities of the Oodsphere</baseDesc>
+    <slot>Adulthood</slot>
+    <bodyTypeFemale>Female</bodyTypeFemale>
+    <bodyTypeMale>Male</bodyTypeMale>
+    <bodyTypeGlobal>Thin</bodyTypeGlobal>
+    <maleCommonality>20</maleCommonality>
+    <femaleCommonality>20</femaleCommonality>
+    <spawnCategories>
+      <li>OodBackstory</li>
+    </spawnCategories>
+  </AlienRace.AlienBackstoryDef>
+  <!-- Generic Ood filler -->
+  <AlienRace.AlienBackstoryDef>
+    <defName>OodAdultOodGeneric</defName>
+    <title>Ood servant</title>
+    <titleShort>Servant</titleShort>
+    <baseDesc>[PAWN_nameDef] spent their adult life acting a servant in a wide variety of roles, never spending too long a time with one owner. [PAWN_pronoun] longed for the day when they could be reunited with their Oodkind...</baseDesc>
+    <slot>Adulthood</slot>
+    <bodyTypeFemale>Female</bodyTypeFemale>
+    <bodyTypeMale>Male</bodyTypeMale>
+    <bodyTypeGlobal>Thin</bodyTypeGlobal>
+    <maleCommonality>20</maleCommonality>
+    <femaleCommonality>20</femaleCommonality>
+    <spawnCategories>
+      <li>OodBackstory</li>
+    </spawnCategories>
+  </AlienRace.AlienBackstoryDef>
+</Defs>
